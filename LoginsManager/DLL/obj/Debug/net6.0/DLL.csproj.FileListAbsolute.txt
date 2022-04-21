@@ -1,0 +1,16 @@
+E:\Assessment Password-Manager\LoginsManager\DLL\bin\Debug\net6.0\DLL.deps.json
+E:\Assessment Password-Manager\LoginsManager\DLL\bin\Debug\net6.0\DLL.runtimeconfig.json
+E:\Assessment Password-Manager\LoginsManager\DLL\bin\Debug\net6.0\DLL.dll
+E:\Assessment Password-Manager\LoginsManager\DLL\bin\Debug\net6.0\DLL.pdb
+E:\Assessment Password-Manager\LoginsManager\DLL\bin\Debug\net6.0\PremiumMainCS.dll
+E:\Assessment Password-Manager\LoginsManager\DLL\obj\Debug\net6.0\DLL.csproj.AssemblyReference.cache
+E:\Assessment Password-Manager\LoginsManager\DLL\obj\Debug\net6.0\DLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Assessment Password-Manager\LoginsManager\DLL\obj\Debug\net6.0\DLL.AssemblyInfoInputs.cache
+E:\Assessment Password-Manager\LoginsManager\DLL\obj\Debug\net6.0\DLL.AssemblyInfo.cs
+E:\Assessment Password-Manager\LoginsManager\DLL\obj\Debug\net6.0\DLL.csproj.CoreCompileInputs.cache
+E:\Assessment Password-Manager\LoginsManager\DLL\obj\Debug\net6.0\DLL.csproj.CopyComplete
+E:\Assessment Password-Manager\LoginsManager\DLL\obj\Debug\net6.0\DLL.dll
+E:\Assessment Password-Manager\LoginsManager\DLL\obj\Debug\net6.0\refint\DLL.dll
+E:\Assessment Password-Manager\LoginsManager\DLL\obj\Debug\net6.0\DLL.pdb
+E:\Assessment Password-Manager\LoginsManager\DLL\obj\Debug\net6.0\DLL.genruntimeconfig.cache
+E:\Assessment Password-Manager\LoginsManager\DLL\obj\Debug\net6.0\ref\DLL.dll
